@@ -14,8 +14,7 @@ The dataset used for this project is sourced from Kaggle:
 
 2. **Model Training**  
    - Train various machine learning models to predict algae growth  
-   - Models explored:  
-     - Linear Regression  
+   - Models explored:    
      - Decision Tree  
      - Random Forest  
      - Support Vector Machine (SVM)  
